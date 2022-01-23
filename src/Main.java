@@ -43,7 +43,7 @@ public class Main {
         int y = 0;
         int[][] grid = new int[GRID_X][GRID_Y];
 
-        //Parse too grid
+        //Parse to grid
         while(scan.hasNext()) {
             String line = scan.next();
             int x = 0;
